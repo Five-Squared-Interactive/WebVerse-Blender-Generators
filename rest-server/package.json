@@ -1,0 +1,19 @@
+{
+    "name": "webverse-blender-generators",
+    "description": "REST server for WebVerse Blender Generator Integration.",
+    "keywords": [
+        "WebVerse",
+        "Blender"
+    ],
+    "version": "1.0.0",
+    "scripts": {
+        "main": "node main.js"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.3"
+    },
+    "engines": {
+        "node": ">=6.0"
+    }
+}
